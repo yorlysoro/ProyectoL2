@@ -1,0 +1,28 @@
+Recibo del Trabajador: 25142034 Fecha: 6/7/2018
+
+Cedula: 25142034
+Nombre: Yorlis                    Apellido: Oropeza
+Cargo: Docente      Nivel de instruccion: TSU
+Afiliado a caja de ahorro: S             Año de Ingreso: 2005
+Sueldo Base: 7000000.00
+
+        Asignaciones
+
+Prima Por Profesionalizacion: 700000.00
+Prima Por Hogar: 150000.00
+Prima Por Hijos: 15000.00
+Prima por apoyo a la Actividad docente: 7500.00
+Prima De Antiguedad: 0.00
+
+         Deducciones
+
+Descuento por Caja de Ahorro: 700000.00
+Descuento por SSO: 280000.00
+Descuento por FAOV: 70000.00
+Descuento por PIE: 70000.00
+
+             Totales
+
+Total de Asignaciones: 872500.00
+Total de Deducciones: 1120000.00
+Sueldo Neto: 6752500.00

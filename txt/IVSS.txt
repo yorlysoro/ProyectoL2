@@ -1,0 +1,6 @@
+          Total Pagado al IVSS
+
+Trabajador        Total Pagado            MES
+19528346          1208793.40               Enero
+19528347          1528793.40               Enero
+19528349           408793.40             Febrero

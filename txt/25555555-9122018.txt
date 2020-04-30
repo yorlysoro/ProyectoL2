@@ -1,0 +1,28 @@
+Recibo del Trabajador: 25555555 Fecha: 9/12/2018
+
+Cedula: 25555555
+Nombre: Alguien                    Apellido: Cualquiera
+Cargo: Obrero      Nivel de instruccion: TSU
+Afiliado a caja de ahorro: S             Año de Ingreso: 2003
+Sueldo Base: 3000000.00
+
+        Asignaciones
+
+Prima Por Profesionalizacion: 300000.00
+Prima Por Hogar: 150000.00
+Prima Por Hijos: 0.00
+Prima por apoyo a la Actividad docente: 0.00
+Prima De Antiguedad: 0.00
+
+         Deducciones
+
+Descuento por Caja de Ahorro: 300000.00
+Descuento por SSO: 120000.00
+Descuento por FAOV: 30000.00
+Descuento por PIE: 30000.00
+
+             Totales
+
+Total de Asignaciones: 450000.00
+Total de Deducciones: 480000.00
+Sueldo Neto: 2970000.00

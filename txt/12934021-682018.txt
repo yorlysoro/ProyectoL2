@@ -1,0 +1,28 @@
+Recibo del Trabajador: 12934021 Fecha: 6/8/2018
+
+Cedula: 12934021
+Nombre: Jose                      Apellido: Liberon
+Cargo: Obrero      Nivel de instruccion: Magister
+Afiliado a caja de ahorro: S             Año de Ingreso: 2004
+Sueldo Base: 9000000.00
+
+        Asignaciones
+
+Prima Por Profesionalizacion: 1620000.00
+Prima Por Hogar: 150000.00
+Prima Por Hijos: 7500.00
+Prima por apoyo a la Actividad docente: 0.00
+Prima De Antiguedad: 0.00
+
+         Deducciones
+
+Descuento por Caja de Ahorro: 900000.00
+Descuento por SSO: 360000.00
+Descuento por FAOV: 90000.00
+Descuento por PIE: 90000.00
+
+             Totales
+
+Total de Asignaciones: 1777500.00
+Total de Deducciones: 1440000.00
+Sueldo Neto: 9337500.00

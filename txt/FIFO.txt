@@ -1,0 +1,6 @@
+                                     Total Cobrado
+
+Trabajador             Cobrado            Mes
+19528346          8082706.50               Enero
+19528347         10539630.00               Enero
+19528349          2479463.00             Febrero

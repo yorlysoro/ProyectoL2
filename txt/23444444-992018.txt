@@ -1,0 +1,28 @@
+Recibo del Trabajador: 23444444 Fecha: 9/9/2018
+
+Cedula: 23444444
+Nombre: Cualquiera                    Apellido: Igual
+Cargo: Obrero      Nivel de instruccion: Doctor
+Afiliado a caja de ahorro: S             Año de Ingreso: 2009
+Sueldo Base: 12000000.00
+
+        Asignaciones
+
+Prima Por Profesionalizacion: 2400000.00
+Prima Por Hogar: 150000.00
+Prima Por Hijos: 0.00
+Prima por apoyo a la Actividad docente: 0.00
+Prima De Antiguedad: 0.00
+
+         Deducciones
+
+Descuento por Caja de Ahorro: 1200000.00
+Descuento por SSO: 480000.00
+Descuento por FAOV: 120000.00
+Descuento por PIE: 120000.00
+
+             Totales
+
+Total de Asignaciones: 2550000.00
+Total de Deducciones: 1920000.00
+Sueldo Neto: 12630000.00

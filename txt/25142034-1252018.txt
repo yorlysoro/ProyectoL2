@@ -1,0 +1,28 @@
+Recibo del Trabajador: 25142034 Fecha: 12/5/2018
+
+Cedula: 25142034
+Nombre: Yorlys Jose                    Apellido: Oropeza Escalona
+Cargo: Administrtivo      Nivel de instruccion: TSU
+Afiliado a caja de ahorro: S             Año de Ingreso: 2014
+Sueldo Base: 6000000.00
+
+        Asignaciones
+
+Prima Por Profesionalizacion: 600000.00
+Prima Por Hogar: 150000.00
+Prima Por Hijos: 7500.00
+Prima por apoyo a la Actividad docente: 0.00
+Prima De Antiguedad: 0.00
+
+         Deducciones
+
+Descuento por Caja de Ahorro: 600000.00
+Descuento por SSO: 240000.00
+Descuento por FAOV: 60000.00
+Descuento por PIE: 60000.00
+
+             Totales
+
+Total de Asignaciones: 757500.00
+Total de Deducciones: 960000.00
+Sueldo Neto: 5797500.00

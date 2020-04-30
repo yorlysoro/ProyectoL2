@@ -1,0 +1,28 @@
+Recibo del Trabajador: 25142034 Fecha: 12/10/2018
+
+Cedula: 25142034
+Nombre: Yorlys                    Apellido: Oropeza
+Cargo: Obrero      Nivel de instruccion: TSU
+Afiliado a caja de ahorro: N             Año de Ingreso: 2005
+Sueldo Base: 2000000.00
+
+        Asignaciones
+
+Prima Por Profesionalizacion: 200000.00
+Prima Por Hogar: 150000.00
+Prima Por Hijos: 0.00
+Prima por apoyo a la Actividad docente: 0.00
+Prima De Antiguedad: 420000.00
+
+         Deducciones
+
+Descuento por Caja de Ahorro: 0.00
+Descuento por SSO: 80000.00
+Descuento por FAOV: 20000.00
+Descuento por PIE: 20000.00
+
+             Totales
+
+Total de Asignaciones: 770000.00
+Total de Deducciones: 120000.00
+Sueldo Neto: 2650000.00

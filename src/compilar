@@ -1,0 +1,3 @@
+g++ *.cpp -o proyecto.exe
+proyecto.exe
+pause

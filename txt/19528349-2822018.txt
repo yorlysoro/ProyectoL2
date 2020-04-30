@@ -1,0 +1,28 @@
+Recibo del Trabajador: 19528349 Fecha: 28/2/2018
+
+Cedula: 19528349
+Nombre: Maria                    Apellido: Castro
+Cargo: Obrero      Nivel de instruccion: Bachiller
+Afiliado a caja de ahorro: S             Año de Ingreso: 2014
+Sueldo Base: 2554958.75
+
+        Asignaciones
+
+Prima Por Profesionalizacion: 0.00
+Prima Por Hogar: 150000.00
+Prima Por Hijos: 30000.00
+Prima por apoyo a la Actividad docente: 0.00
+Prima De Antiguedad: 153297.52
+
+         Deducciones
+
+Descuento por Caja de Ahorro: 255495.88
+Descuento por SSO: 102198.35
+Descuento por FAOV: 25549.59
+Descuento por PIE: 25549.59
+
+             Totales
+
+Total de Asignaciones: 333297.53
+Total de Deducciones: 408793.40
+Sueldo Neto: 2479462.88
